@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Language UniqueName="zh-cn" ReadableName="简体中文" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Translations>
+
+    <Translation ID="PTA_DESCRIPTION" String="使让玩家不受限制的放置Prop和树木" />
+
+    <!-- OPTIONS -->
+
+    <Translation ID="PTA_OPTION_NO_UI" String="不显示状态栏" />
+
+    <Translation ID="PTA_OPTION_UNHIDE_PROPS" String="重新读档不隐藏所有Prop" />
+
+    <Translation ID="PTA_OPTION_UNHIDE_TREES" String="重新读档不隐藏所有树木" />
+
+    <Translation ID="PTA_OPTION_ALWAYS_ON" String="无碰撞功能始终开启" />
+
+    <Translation ID="PTA_OPTION_DEFAULT_ON" String="无碰撞功能默认开启（无碰撞功能始终开启时忽略此选项）" />
+
+    <Translation ID="PTA_OPTION_COMBO" String="无碰撞启用/关闭热键(无碰撞功能始终开启时忽略此选项)" />
+
+    <!-- UI -->
+
+    <Translation ID="PTA_ON" String="Prop及树木无碰撞功能：开启" />
+
+    <Translation ID="PTA_OFF" String="Prop及树木无碰撞功能：关闭" />
+
+  </Translations>
+
+</Language>
